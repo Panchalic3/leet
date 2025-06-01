@@ -1,4 +1,4 @@
-import static java.lang.Math.pow;
+package org.example;
 
 public class PlusOne {
     public int[] plusOne(int[] digits) {

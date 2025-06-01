@@ -1,3 +1,5 @@
+package org.example;
+
 public class moveZeros {
     public void moveZeroes(int[] nums) {
         int len = nums.length;

@@ -1,3 +1,5 @@
+package org.example;
+
 public class ClimbingStairs {
     public int climbStairs(int n) {
         int root = 1;

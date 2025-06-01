@@ -1,3 +1,5 @@
+package org.example;
+
 public class ReverseString {
     public char[] reverseString(char[] s) {
         int len = s.length;

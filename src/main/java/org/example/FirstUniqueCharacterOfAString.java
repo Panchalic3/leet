@@ -1,8 +1,6 @@
-import org.jetbrains.annotations.NotNull;
+package org.example;
 
-import java.util.*;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
+import org.jetbrains.annotations.NotNull;
 
 public class FirstUniqueCharacterOfAString {
     public int firstUniqChar(@NotNull String s) {

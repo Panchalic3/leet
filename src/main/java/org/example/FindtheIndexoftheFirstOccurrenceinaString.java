@@ -1,3 +1,5 @@
+package org.example;
+
 public class FindtheIndexoftheFirstOccurrenceinaString {
     public int strStr(String haystack, String needle) {
         int flag = -1;
